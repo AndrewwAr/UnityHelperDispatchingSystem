@@ -1,0 +1,6 @@
+{
+  "name": "VR Dispatching System Training",
+  "description": "A VR training simulation for a modern dispatching system. Users select their role to access a tailored dashboard and training scenarios.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
